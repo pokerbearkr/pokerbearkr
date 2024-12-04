@@ -1,5 +1,8 @@
 ## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokerbearkr&layout=compact)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=omj1010)]
+
 <!--
 **pokerbearkr/pokerbearkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
