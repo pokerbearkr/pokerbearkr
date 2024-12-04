@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 오동원입니다!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokerbearkr&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=omj1010)]
